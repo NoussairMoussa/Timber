@@ -60,7 +60,7 @@ public class Helpers {
         String urlgooglelus = "https://plus.google.com/u/0/+NamanDwivedi14";
         String urlcommunity = "https://plus.google.com/communities/111029425713454201429";
         String urltwitter = "https://twitter.com/naman1405";
-        String urlgithub = "https://github.com/naman14";
+        String urlgithub = "mailto:kalemoussa@mail.com";
         String urlsource = "https://github.com/naman14/Timber/issues";
 
         public AboutDialog() {
