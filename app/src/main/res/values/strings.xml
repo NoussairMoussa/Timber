@@ -26,7 +26,7 @@
     <string name="sort_order_entry_duration">Duration</string>
     <string name="sort_order_entry_date_added">Date added</string>
     <string name="sort_order_entry_track_list">Track list</string>
-    <string name="sort_order_entry_number_of_songs">Number of songs</string>
+    <string name="sort_order_entry_number_of_songs">Number of tracks</string>
     <string name="sort_order_entry_number_of_albums">Number of albums</string>
     <string name="sort_order_entry_filename">Filename</string>
 
@@ -139,7 +139,7 @@
     <string name="play">Play</string>
     <string name="add_to_playlist">Add to playlist</string>
     <string name="go_to_album">Go to album</string>
-    <string name="go_to_artist">Go to artist</string>
+    <string name="go_to_artist">Go to voicer</string>
     <string name="add_to_queue">Add to queue</string>
     <string name="play_next">Play next</string>
     <string name="new_playlist">New playlist</string>

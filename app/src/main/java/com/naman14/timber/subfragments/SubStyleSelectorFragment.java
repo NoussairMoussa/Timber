@@ -70,6 +70,7 @@ public class SubStyleSelectorFragment extends Fragment {
         styleImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                /*
                 if (getArguments().getInt(ARG_PAGE_NUMBER) >= 4) {
                     if (isUnlocked()) {
                         setPreferences();
@@ -77,6 +78,7 @@ public class SubStyleSelectorFragment extends Fragment {
                         showPurchaseDialog();
                     }
                 } else
+                */
                     setPreferences();
             }
         });
@@ -121,14 +123,16 @@ public class SubStyleSelectorFragment extends Fragment {
     }
 
     private void updateLockedStatus() {
+        /*
         if (getArguments().getInt(ARG_PAGE_NUMBER) >= 4 && !isUnlocked()) {
             imgLock.setVisibility(View.VISIBLE);
             foreground.setVisibility(View.VISIBLE);
         }
         else {
+        */
             imgLock.setVisibility(View.GONE);
             foreground.setVisibility(View.GONE);
-        }
+        //}
     }
     private void showPurchaseDialog() {
         MaterialDialog dialog = new MaterialDialog.Builder(getActivity())

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">قارئ الصوتيات</string>
+    <string name="action_settings">إعدادات</string>
+
+    <string name="accessibility_play">تشغيل</string>
+    <string name="accessibility_pause">ايقاف موقت</string>
+    <string name="accessibility_next">التالي</string>
+    <string name="accessibility_prev">القبلي</string>
+    <string name="accessibility_shuffle">عشوائي</string>
+    <string name="accessibility_shuffle_all">عشوائي للجميع</string>
+    <string name="accessibility_repeat">إعادة</string>
+    <string name="accessibility_repeat_all">إعادة للجميع</string>
+    <string name="accessibility_repeat_one">إعادة واحدة</string>
+    <string name="accessibility_queue">فتح القائمة</string>
+    <string name="accessibility_browse">تصفـح الصوتيات</string>
+
+    <string name="menu_sort_by">ترتيب حسب</string>
+    <string name="sort_order_entry_az">أ-ي</string>
+    <string name="sort_order_entry_za">ي-أ</string>
+    <string name="sort_order_entry_artist">الشيخ</string>
+    <string name="sort_order_entry_album">ألبوم</string>
+    <string name="sort_order_entry_year">السنة</string>
+    <string name="sort_order_entry_track_number">الصوتية رقم</string>
+    <string name="sort_order_entry_duration">المدة</string>
+    <string name="sort_order_entry_date_added">تاريخ الإضافة</string>
+    <string name="sort_order_entry_track_list">قائمة الصوتيات</string>
+    <string name="sort_order_entry_number_of_songs">عدد الصوتيات</string>
+    <string name="sort_order_entry_number_of_albums">عدد الألبومات</string>
+    <string name="sort_order_entry_filename">اسم الملف</string>
+
+    <string name="error_playing_track">حدث خطأ عند التشغيل</string>
+
+    <string name="playlist_last_added">أخر مضافة</string>
+    <string name="playlist_recently_played">أخر ما تم سماعه</string>
+    <string name="playlist_top_tracks">الصوتيات المفضلة</string>
+
+    <string name="timber_source">Report any bugs <u> here </u> </string>
+    <string name="timber_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
+
+    <string name="menu_show_as">مشاهدة حسب</string>
+    <string name="menu_show_as_entry_list">قائمة</string>
+    <string name="menu_show_as_entry_grid">شبكة</string>
+    <string name="menu_show_as_entry_default">إفتراضي</string>
+
+    <string name="light">مضيئ</string>
+    <string name="dark">داكن</string>
+    <string name="black">أسود</string>
+
+    <string name="last_opened">أخر ما تم فتحه</string>
+
+    <string name="songs">صوتيات</string>
+    <string name="albums">ألبومات</string>
+    <string name="artists">مشايخ</string>
+    <string name="library">مكتبة</string>
+    <string name="playlists">قوائم التشغيل</string>
+    <string name="playing_queue">تشغيل القائمة</string>
+    <string name="now_playing">يشتغل حاليا</string>
+    <string name="settings">إعدادات</string>
+    <string name="about">حول</string>
+    <string name="help_and_feedback">مساعدة</string>
+    <string name="search">Search</string>
+    <string name="action_shuffle_all">عشوائي للكل</string>
+    <string name="action_equalizer">معدل الأصوات</string>
+    <string name="search_library">بحث في المكتبة</string>
+
+    <string name="select_theme">إختيار الثيم</string>
+    <string name="choose_theme_throughout">إختيار الثيم ليتم استعماله في القائمة</string>
+    <string name="choose_start_page">إختر صفحة البداية</string>
+    <string name="start_page">صفحة البداية</string>
+    <string name="artist_in_grid">ترتيب شبكي</string>
+    <string name="toggle_artists_grid">تبديل المشاهدة إلى 2x2</string>
+    <string name="toggle_system_animations">تبديل لمشاهدة الرسوم في التطبيق</string>
+    <string name="system_animations">نظام الرسوم</string>
+    <string name="toggle_animations">تبديل الرسوم</string>
+    <string name="animations">رسوم</string>
+    <string name="now_playing_selector">إختيار شكل الواجهة من بين 6 واجهات</string>
+    <string name="personalisation">شخصـــي</string>
+    <string name="other">أخرى</string>
+    <string name="advanced">متقدمــة</string>
+    <string name="timber_about_opensource"> هذا التطبيق تم برمجته من قبل Dwivedi Naman وقد تمت ملائمته للعربية من قبل قالم موسى نصيــر </string>
+    <string name="summary_pause_detach">إيقاف عند نزع السماعات </string>
+    <string name="pause_detach">إيقاف عند نزع السماعات</string>
+    <string name="summary_xposed_trackselector">Requires Xposed and XMediaNotificationTrackSelector Xposed module to be installed. This will provide access to playing queue from the notification bar itself.</string>
+    <string name="xposed_trackselector">تشغيل عند الإشعارات </string>
+    <string name="currently_selected">محددة حاليا</string>
+
+    <string name="dark_theme">ثيم داكن </string>
+    <string name="dark_theme_summary">تطبيق الثيم الداكن عاى كامل التطبيق</string>
+
+    <string name="primary_color">لون أولي</string>
+    <string name="primary_color_summary">تغيير اللون الأولي للتطبيق</string>
+
+    <string name="accent_color">لون ثانوي</string>
+    <string name="accent_color_summary">تغيير اللون الثانوي</string>
+
+    <string name="colored_status_bar">تلوين الشريظ</string>
+    <string name="colored_status_bar_summary">تغيير لون الشريط</string>
+
+    <string name="colored_nav_bar">تلوين شريط التنقل</string>
+    <string name="colored_nav_bar_summary">تغيير لون شريط التنقل</string>
+
+    <string name="albumart_lockscreen">قفل الشاشة</string>
+    <string name="albumart_lockscreen_summary">مشاهدة الألبوم عند قفل الشاشـة</string>
+
+    <string name="load_artist_image">Load artist images</string>
+    <string name="load_artist_image_summary">Load artist images from lastfm</string>
+
+    <string name="load_artist_image_mobile">Load artist images on mobile data</string>
+    <string name="load_artist_image_mobile_summary">Load artist images even if there is no wifi</string>
+
+    <string name="gestures">إشارات </string>
+    <string name="switching_tracks_by_gestures">التغيير بين الصوتيات بالإشارة</string>
+    <string name="widget_standard">تطبيق صغير</string>
+    <string name="widget_small">تطبيق صغير</string>
+    <string name="tap_to_start">إضغط لفتح التطبيق</string>
+    <string name="widget_white">تطبيق صغير</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> صوتية</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> صوتيات </string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> ألبوم</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> ألبومات</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> الشيخ</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> مشايخ</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> صوتية مضافة إلى القائمة</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> صوتيات مضافة إلى القائمة </string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> صوتيات مضافة إلى القائمة </string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> صوتيات مضافة إلى القائمة </string>
+
+
+    <!--do not translate these strings-->
+    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
+    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="play">Play</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="go_to_album">Go to album</string>
+    <string name="go_to_artist">Go to artist</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="play_next">Play next</string>
+    <string name="new_playlist">New playlist</string>
+
+
+    <string name="nothing_found">ﻻ شيء</string>
+    <string name="folders">مجلدات </string>
+    <string name="select_storage">إختيار مكان التخزين</string>
+
+    <string name="lastfm_pref">Login to LastFM to scrobble</string>
+    <string name="lastfm_login_failture">Failed to Login</string>
+    <string name="lastfm_login">Login to LastFM</string>
+    <string name="lastfm_loged_in">Logged in as %s</string>
+
+    <string name="cancel">إلغاء</string>
+
+</resources>
